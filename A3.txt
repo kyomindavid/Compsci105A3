@@ -1,0 +1,23 @@
+CompSci 105 S1 2014
+===================
+Feedback on Assignment Three
+----------------------------
+
+Name: Kyomin Ku
+
+Login: kku031
+
+ID: 5521999
+
+
+All the work done in this assignment is my own work. (Yes/No) Yes
+
+How much time did the assignment take overall? 5 days
+
+What areas of the assignment did you find easy? statistics method
+
+What areas of the assignment did you find difficult? part4 (-d)
+
+Which topics of the course did the assignment most help you understand? Binary tree
+
+Any other comments:
